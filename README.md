@@ -1,3 +1,8 @@
+# TFM - Airbnb CompSet Viewer	
+
+Final project for the Data Science Masters in Kschool
+
+Team Members: Carmen Varón & Carlos Naranjo
 
 Watch this video to see Airbnb CompSet Viewer in action: https://youtu.be/uUsJcLAzekE
 
@@ -13,7 +18,7 @@ STEP 1 - Download Qlik Sense Desktop (just for windows)
 
 STEP 2 - Download Airbnb CompSet Viewer App and Extensions.zip
 
-	2.1 Extract 3 files: 1 file and 2 extension folders
+	2.1 Extract the 3 files: 1 file and 2 extension folders
 
 	2.2 Move Airbnb Compset Viewer.qvf to C:\Users\YOURUSERNAME\Documents\Qlik\Sense\Apps
 
@@ -28,6 +33,6 @@ STEP 3 - Run Qlik Sense
 	
 	Run Airbnb Compset Viewer App
 	
-	Check the ForntEnd Manual at the Project Memory
+	Check the FrontEnd Manual at the Project Memory
 
 
